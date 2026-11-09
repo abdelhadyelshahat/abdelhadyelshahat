@@ -68,8 +68,12 @@ Professional-grade load, stress, and endurance scenarios with realistic user sim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelhadyelshahat&show_icons=true&theme=tokyonight" height="165" alt="Abdelhady's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhadyelshahat&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelhadyelshahat&theme=tokyonight" height="200" alt="Abdelhady's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelhadyelshahat&theme=tokyonight" height="200" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelhadyelshahat&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Let's Connect
